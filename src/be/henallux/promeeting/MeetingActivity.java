@@ -1,9 +1,10 @@
-package fr.andscape.promeeting;
+package be.henallux.promeeting;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import be.henallux.promeeting.R;
 
 public class MeetingActivity extends Activity {
 

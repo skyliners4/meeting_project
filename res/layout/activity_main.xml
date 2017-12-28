@@ -7,7 +7,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="fr.andscape.promeeting.MainActivity" >
+    tools:context="be.henallux.promeeting.MainActivity" >
 
     <RelativeLayout
         android:layout_width="wrap_content"

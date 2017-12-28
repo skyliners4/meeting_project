@@ -1,4 +1,4 @@
-package fr.andscape.promeeting;
+package be.henallux.promeeting;
 
 public abstract class Liens {
 	

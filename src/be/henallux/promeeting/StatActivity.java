@@ -1,4 +1,4 @@
-package fr.andscape.promeeting;
+package be.henallux.promeeting;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -1,10 +1,9 @@
 package dao;
 
-import com.example.andscapebase.R;
-
-import fr.andscape.promeeting.MainActivity;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
+import be.henallux.promeeting.MainActivity;
+import be.henallux.promeeting.R;
 
 public abstract class DAOBase {
   // Augmenter la version pour relancer la création

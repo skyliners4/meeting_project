@@ -1,12 +1,11 @@
-package fr.andscape.promeeting;
-
-import com.example.andscapebase.R;
+package be.henallux.promeeting;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
+import be.henallux.promeeting.R;
 import dao.DatabaseHandler;
 import dao.MetierDAO;
 
