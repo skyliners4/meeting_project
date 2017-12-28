@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Promeeting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Options</string>
+    <string name="db_name">app_db_promeeting</string>
+    <string name="title_activity_meeting">MeetingActivity</string>
+    <string name="title_activity_stat">StatActivity</string>
+
+</resources>
