@@ -25,7 +25,14 @@
         </activity>
         <activity
             android:name=".activities.LoginActivity"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".activities.MeetActivity"
+            android:label="@string/title_activity_meet"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.SurveyActivity">
+
+        </activity>
     </application>
 
 </manifest>
